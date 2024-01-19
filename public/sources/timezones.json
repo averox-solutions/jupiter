@@ -1,0 +1,322 @@
+[{
+        "value": "Dateline Standard Time (DST)"
+    },
+    {
+        "value": "UTC-11 (U)"
+    },
+    {
+        "value": "Hawaiian Standard Time (HST)"
+    },
+    {
+        "value": "Alaskan Standard Time (AKDT)"
+    },
+    {
+        "value": "Pacific Standard Time (Mexico) (PDT)"
+    },
+    {
+        "value": "Pacific Daylight Time (PDT)"
+    },
+    {
+        "value": "Pacific Standard Time (PST)"
+    },
+    {
+        "value": "US Mountain Standard Time (UMST)"
+    },
+    {
+        "value": "Mountain Standard Time (Mexico) (MDT)"
+    },
+    {
+        "value": "Mountain Standard Time (MDT)"
+    },
+    {
+        "value": "Central America Standard Time (CAST)"
+    },
+    {
+        "value": "Central Standard Time (CDT)"
+    },
+    {
+        "value": "Central Standard Time (Mexico) (CDT)"
+    },
+    {
+        "value": "Canada Central Standard Time (CCST)"
+    },
+    {
+        "value": "SA Pacific Standard Time (SPST)"
+    },
+    {
+        "value": "Eastern Standard Time (EST)"
+    },
+    {
+        "value": "Eastern Daylight Time (EDT)"
+    },
+    {
+        "value": "US Eastern Standard Time (UEDT)"
+    },
+    {
+        "value": "Venezuela Standard Time (VST)"
+    },
+    {
+        "value": "Paraguay Standard Time (PYT)"
+    },
+    {
+        "value": "Atlantic Standard Time (ADT)"
+    },
+    {
+        "value": "Central Brazilian Standard Time (CBST)"
+    },
+    {
+        "value": "SA Western Standard Time (SWST)"
+    },
+    {
+        "value": "Pacific SA Standard Time (PSST)"
+    },
+    {
+        "value": "Newfoundland Standard Time (NDT)"
+    },
+    {
+        "value": "E. South America Standard Time (ESAST)"
+    },
+    {
+        "value": "Argentina Standard Time (AST)"
+    },
+    {
+        "value": "SA Eastern Standard Time (SEST)"
+    },
+    {
+        "value": "Greenland Standard Time (GDT)"
+    },
+    {
+        "value": "Montevideo Standard Time (MST)"
+    },
+    {
+        "value": "Bahia Standard Time (BST)"
+    },
+    {
+        "value": "UTC-02 (U)"
+    },
+    {
+        "value": "Mid-Atlantic Standard Time (MDT)"
+    },
+    {
+        "value": "Azores Standard Time (ADT)"
+    },
+    {
+        "value": "Cape Verde Standard Time (CVST)"
+    },
+    {
+        "value": "Morocco Standard Time (MDT)"
+    },
+    {
+        "value": "UTC (UTC)"
+    },
+    {
+        "value": "GMT Standard Time (GMT)"
+    },
+    {
+        "value": "British Summer Time (BST)"
+    },
+    {
+        "value": "GMT Standard Time (GDT)"
+    },
+    {
+        "value": "Greenwich Standard Time (GST)"
+    },
+    {
+        "value": "W. Europe Standard Time (WEDT)"
+    },
+    {
+        "value": "Central Europe Standard Time (CEDT)"
+    },
+    {
+        "value": "Romance Standard Time (RDT)"
+    },
+    {
+        "value": "Central European Standard Time (CEDT)"
+    },
+    {
+        "value": "W. Central Africa Standard Time (WCAST)"
+    },
+    {
+        "value": "Namibia Standard Time (NST)"
+    },
+    {
+        "value": "GTB Standard Time (GDT)"
+    },
+    {
+        "value": "Middle East Standard Time (MEDT)"
+    },
+    {
+        "value": "Egypt Standard Time (EST)"
+    },
+    {
+        "value": "Syria Standard Time (SDT)"
+    },
+    {
+        "value": "E. Europe Standard Time (EEDT)"
+    },
+    {
+        "value": "South Africa Standard Time (SAST)"
+    },
+    {
+        "value": "FLE Standard Time (FDT)"
+    },
+    {
+        "value": "Turkey Standard Time (TDT)"
+    },
+    {
+        "value": "Israel Standard Time (JDT)"
+    },
+    {
+        "value": "Libya Standard Time (LST)"
+    },
+    {
+        "value": "Jordan Standard Time (JST)"
+    },
+    {
+        "value": "Arabic Standard Time (AST)"
+    },
+    {
+        "value": "Kaliningrad Standard Time (KST)"
+    },
+    {
+        "value": "Arab Standard Time (AST)"
+    },
+    {
+        "value": "E. Africa Standard Time (EAST)"
+    },
+    {
+        "value": "Moscow Standard Time (MSK)"
+    },
+    {
+        "value": "Samara Time (SAMT)"
+    },
+    {
+        "value": "Iran Standard Time (IDT)"
+    },
+    {
+        "value": "Arabian Standard Time (AST)"
+    },
+    {
+        "value": "Azerbaijan Standard Time (ADT)"
+    },
+    {
+        "value": "Mauritius Standard Time (MST)"
+    },
+    {
+        "value": "Georgian Standard Time (GET)"
+    },
+    {
+        "value": "Caucasus Standard Time (CST)"
+    },
+    {
+        "value": "Afghanistan Standard Time (AST)"
+    },
+    {
+        "value": "West Asia Standard Time (WAST)"
+    },
+    {
+        "value": "Yekaterinburg Time (YEKT)"
+    },
+    {
+        "value": "Pakistan Standard Time (PKT)"
+    },
+    {
+        "value": "India Standard Time (IST)"
+    },
+    {
+        "value": "Sri Lanka Standard Time (SLST)"
+    },
+    {
+        "value": "Nepal Standard Time (NST)"
+    },
+    {
+        "value": "Central Asia Standard Time (CAST)"
+    },
+    {
+        "value": "Bangladesh Standard Time (BST)"
+    },
+    {
+        "value": "Myanmar Standard Time (MST)"
+    },
+    {
+        "value": "SE Asia Standard Time (SAST)"
+    },
+    {
+        "value": "N. Central Asia Standard Time (NCAST)"
+    },
+    {
+        "value": "China Standard Time (CST)"
+    },
+    {
+        "value": "North Asia Standard Time (NAST)"
+    },
+    {
+        "value": "Singapore Standard Time (MPST)"
+    },
+    {
+        "value": "W. Australia Standard Time (WAST)"
+    },
+    {
+        "value": "Taipei Standard Time (TST)"
+    },
+    {
+        "value": "Ulaanbaatar Standard Time (UST)"
+    },
+    {
+        "value": "North Asia East Standard Time (NAEST)"
+    },
+    {
+        "value": "Japan Standard Time (JST)"
+    },
+    {
+        "value": "Korea Standard Time (KST)"
+    },
+    {
+        "value": "Cen. Australia Standard Time (CAST)"
+    },
+    {
+        "value": "AUS Central Standard Time (ACST)"
+    },
+    {
+        "value": "E. Australia Standard Time (EAST)"
+    },
+    {
+        "value": "AUS Eastern Standard Time (AEST)"
+    },
+    {
+        "value": "West Pacific Standard Time (WPST)"
+    },
+    {
+        "value": "Tasmania Standard Time (TST)"
+    },
+    {
+        "value": "Yakutsk Standard Time (YST)"
+    },
+    {
+        "value": "Central Pacific Standard Time (CPST)"
+    },
+    {
+        "value": "Vladivostok Standard Time (VST)"
+    },
+    {
+        "value": "New Zealand Standard Time (NZST)"
+    },
+    {
+        "value": "UTC+12 (U)"
+    },
+    {
+        "value": "Fiji Standard Time (FST)"
+    },
+    {
+        "value": "Magadan Standard Time (MST)"
+    },
+    {
+        "value": "Kamchatka Standard Time (KDT)"
+    },
+    {
+        "value": "Tonga Standard Time (TST)"
+    },
+    {
+        "value": "Samoa Standard Time (SST)"
+    }
+]

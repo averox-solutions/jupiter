@@ -1,0 +1,20 @@
+{
+    "name": "JupiterMeetPro",
+    "description": "Signalling server for JupiterMeet Pro",
+    "version": "1.6.0",
+    "scripts": {
+        "local": "node local.js",
+        "live": "pm2 start app.js --name 'JupiterMeetPro'"
+    },
+    "dependencies": {
+        "dotenv": "^10.0.0",
+        "express": "",
+        "mediasoup": "^3.9.9",
+        "nodemon": "^2.0.20",
+        "path": "^0.12.7",
+        "socket.io": "^4.5.3",
+        "socketio-file-upload": "^0.7.3",
+        "node-cron": "^3.0.2",
+        "node-fetch": "^2.6.7"
+    }
+}
